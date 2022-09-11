@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-main - print the strings in the put function
+*main - print the strings in the put function
 *
 *Description: using the main function
 *This program prints "Programming is like building a multilingual puzzle
